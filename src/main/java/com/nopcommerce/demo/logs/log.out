@@ -1,0 +1,6 @@
+2023-02-17 13:02:225 INFO  HomePage :65 - getting text from : [[ChromeDriver: chrome on WINDOWS (370d081ba79b363c0b61ee1e1706d904)] -> xpath: //h1[@class='search-header__title']]
+2023-02-17 14:02:745 INFO  HomePage :65 - getting text from : [[ChromeDriver: chrome on WINDOWS (6c4b5ab00b1d9d07e5b5b10ae53eb84d)] -> xpath: //h1[@class='search-header__title']]
+2023-02-17 14:02:800 INFO  HomePage :65 - getting text from : [[ChromeDriver: chrome on WINDOWS (cb9434ccdc35b62bf00f31340eac1ed0)] -> xpath: //h1[@class='search-header__title']]
+2023-02-17 14:02:448 INFO  HomePage :65 - getting text from : [[ChromeDriver: chrome on WINDOWS (edda6573c7eec4b5cc41af3e69411e7b)] -> xpath: //h1[@class='search-header__title']]
+2023-02-17 14:02:288 INFO  HomePage :65 - getting text from : [[ChromeDriver: chrome on WINDOWS (b42a73ff776789535a5aa15c8a287df9)] -> xpath: //h1[@class='search-header__title']]
+2023-02-17 14:02:91 INFO  HomePage :65 - getting text from : [[ChromeDriver: chrome on WINDOWS (ebaeb018ddbc95bf1839d9447fa47b8a)] -> xpath: //h1[@class='search-header__title']]
